@@ -1,0 +1,1 @@
+python cpu_info_monitor.py
